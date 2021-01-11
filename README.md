@@ -1,4 +1,4 @@
-https://clementschris.github.io/natours-project/
+https://clementschris.github.io/natours/
 
 # Natours Project
 
